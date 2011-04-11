@@ -29,7 +29,7 @@ Requires:	php-horde-Horde_SyncMl < 2.0.0
 Requires:	php-horde-Horde_Translation < 2.0.0
 Requires:	php-horde-Horde_Util < 2.0.0
 Requires:	php-horde-Horde_Xml_Element < 2.0.0
-Requires:	php-pear
+Requires:	php-pear >= 4:1.3.6-2
 Suggests:	php-horde-Horde_Http
 Suggests:	php-pear-PEAR
 Suggests:	php-soap
