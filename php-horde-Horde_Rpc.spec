@@ -5,12 +5,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde RPC API
 Name:		php-horde-Horde_Rpc
-Version:	1.0.3
+Version:	1.0.4
 Release:	1
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	3bb617e1e051aa2f8335670e0237e787
+# Source0-md5:	39627d947d4532e3291cd72b8aa4e120
 URL:		https://github.com/horde/horde/tree/master/framework/Rpc/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
