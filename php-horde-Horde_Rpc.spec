@@ -2,7 +2,6 @@
 # - system locale dir
 %define		status		stable
 %define		pearname	Horde_Rpc
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde RPC API
 Name:		php-horde-Horde_Rpc
 Version:	1.0.4
